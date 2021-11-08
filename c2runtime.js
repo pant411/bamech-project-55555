@@ -20084,9 +20084,9 @@ cr.behaviors.Physics = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Button,
+	cr.plugins_.TextBox,
 	cr.plugins_.Text,
 	cr.plugins_.Sprite,
-	cr.plugins_.TextBox,
 	cr.behaviors.Physics,
 	cr.behaviors.Bullet,
 	cr.system_object.prototype.cnds.OnLayoutStart,
