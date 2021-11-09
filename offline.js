@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1636384464,
+	"version": 1636469145,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,9 @@
 		"images/obj-sheet0.png",
 		"images/s_obj-sheet0.png",
 		"images/s2_obj-sheet0.png",
+		"images/9patch.png",
+		"images/9patch2.png",
+		"images/9patch3.png",
 		"media/mouse-click-00-m-fesliyanstudios.com2.ogg",
 		"media/strategy (dramatic music) - vanoss gaming background music (hd).ogg",
 		"media/applause-sound-effect2.ogg",
